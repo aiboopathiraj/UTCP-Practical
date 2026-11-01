@@ -12,12 +12,12 @@ source bin/activate
 
 2) run tool fastapi server :
 
-``bash
+```bash
 granian --interface asgi tool:app --port 8000
 ```
 
 3) run main server
 
-``bash
+```bash
 granian --interface asgi main:app --port 8001
 ```
