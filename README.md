@@ -9,6 +9,7 @@ latest tool calling structure to latest way of tool calling
 uv venv .
 source bin/activate
 ```
+create .env - include your GOOGLE_API_KEY
 
 2) run tool fastapi server :
 
