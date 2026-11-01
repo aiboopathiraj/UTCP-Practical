@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+utcp
+utcp-http
+langchain-utcp-adapters
+langchain
+langgraph
+langchain-openai
+python-dotenv
+granian
+pydataui
